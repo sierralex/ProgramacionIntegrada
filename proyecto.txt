@@ -1,0 +1,36 @@
+https://etherscan.io/
+
+consumir con ajax, fetch, curl, servicio web en java, php 
+
+consultar una direcion de wallet cualquiera atraces de etherscan
+
+
+conseguir lista de wallets
+
+bloque
+
+ver las transacciones
+direcciones son from to
+
+registrarse en https://etherscan.io/
+
+generar apikeys c
+crear nuevo permite el uso de ethersca 
+
+lo pego en el codigo fuente de las peticiones en el ultimo item & 
+
+
+analizar los datos con json parser= analizador sintactico 
+
+
+registrarse y le dan una llave (api key)
+
+hacer un conversor 
+
+
+
+solo crear y leer no se puede actualizar ni eliminar
+
+wallet es un cliente que tiene un id o direccion IP   
+
+API= SOFTWARE + DOCUMENTACION PARA PROGRAMADOR
